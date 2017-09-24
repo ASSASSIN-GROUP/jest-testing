@@ -13,7 +13,7 @@ A repository written for a [blog post about testing React with Jest](https://www
 - `npm install`
 - In one tab, run `npm run watch`. This will fire up Webpack and rebuild your app on each change.
 - In another tab, run `npm start`. This will fire up a local server that will refresh automatically when the code changes.
-- `open http://localhost:8081` to view to the app.
+- `open http://localhost:8080` to view to the app.
 
 ## Tests
 
